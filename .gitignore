@@ -5,6 +5,7 @@ output/*.db*
 *.pyc
 __pycache__/
 .env
+eloquent-hour-496314-f9-2303fc3636f7.json
 .worktrees/
 .superpowers/
 .claude
